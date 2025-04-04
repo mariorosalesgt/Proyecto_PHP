@@ -1,14 +1,14 @@
-Nombre del Proyecto:  Proyecto PHP
+# Nombre del Proyecto:  Proyecto PHP
 
-Descripcion:
+## Descripcion:
 
 Esta es parte de la Actividad 4 del Curso Fundamentos de Software, este pequeno codigo desplega un mensaje con mi nombre en la pantalla.
 
-Prerequisitos:
+## Prerequisitos:
 
 Ninguno
 
-Datos del Autor:
+## Datos del Autor:
 
 Nombre: Mario Augusto Rosales Gomez
 Correo:  0011323@galileo.edu
