@@ -1,6 +1,4 @@
-Nombre del Proyecto:
-
-Proyecto PHP
+Nombre del Proyecto:  Proyecto PHP
 
 Descripcion:
 Esta es parte de la Actividad 4 del Curso Fundamentos de Software, este pequeno codigo desplega un mensaje con mi nombre en la pantalla.
